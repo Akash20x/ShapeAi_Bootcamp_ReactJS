@@ -5,7 +5,7 @@
 
 # Developer
 
-Developed By Akash Jain
+* Developed By Akash Jain
 
 # Getting Started with Create React App
 

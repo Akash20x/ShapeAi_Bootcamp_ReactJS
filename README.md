@@ -1,6 +1,7 @@
 # ShapeAi_Bootcamp_ReactJS
 
-This is a simple REACT based TODO APP. Here you can add and delete tasks/items in the list and also mark it whether complete or not.
+* This is a simple REACT based TODO APP. 
+* Here you can add and delete tasks/items in the list and also mark it whether complete or not.
 
 # Developer
 
